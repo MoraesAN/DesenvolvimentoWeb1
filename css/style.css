@@ -1,0 +1,39 @@
+#top{
+    width: auto;
+    background-color: rgb(61, 184, 12);
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    
+}
+#corpo{
+    background-repeat: no-repeat;
+    width: fit-content;
+    height: auto;
+    background-image: url('/img/apps-saude-analise.jpg');
+}
+
+#container a{
+    font-size: 2em;
+    color: white;
+    word-spacing: 3em;
+}
+
+#footer{
+    background-image: linear-gradient(rgb(73, 221, 14), rgb(47, 141, 10));
+    width: auto;
+    height: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
