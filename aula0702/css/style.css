@@ -1,0 +1,42 @@
+#header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 1em;
+    background-image: linear-gradient(rgb(207, 27, 27), rgb(204, 81, 81));
+}
+#conteudo{
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+}
+#menu{
+    width: 20%;
+    height: auto;
+    float: left;    
+}
+#dot{
+    list-style-type: none;
+}
+#corpo{
+    width: 60%;
+    height: auto;
+    text-align: justify;
+    float: right;
+}
+#col{
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+}
+
+#footer{
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+    text-align: justify;    
+    
+    font-size: 1em;
+    background-image: linear-gradient(rgb(207, 27, 27), rgb(204, 81, 81));
+}
